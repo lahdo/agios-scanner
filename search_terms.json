@@ -1,0 +1,8 @@
+{
+    "drug_names": ["Mitapivat", "Pyrukynd", "AG-348", "Tebapivat", "AG-946", "AG-181", "AG-236"],
+    "disease_areas": ["pyruvate kinase deficiency", "PK deficiency", "thalassemia", "non-transfusion dependent thalassemia", "transfusion-dependent thalassemia", "sickle cell disease", "myelodysplastic syndromes", "MDS", "phenylketonuria", "PKU", "polycythemia vera"],
+    "clinical_trials": ["ENERGIZE", "ENERGIZE-T", "RISE UP", "ACTIVATE", "ACTIVATE-T", "ACTIVATE-Kids", "ACTIVATE-KidsT", "DRIVE PK", "NCT"],
+    "mechanisms": ["PKR activation", "PKM2 activation", "2,3-diphosphoglycerate", "ATP elevation", "PAH stabilizer", "TMPRSS6 siRNA"],
+    "safety_signals": ["elevated ALT", "elevated AST", "liver enzymes", "hepatocellular injury", "acute hemolysis", "dose-limiting toxicity"]
+  ,"company_names": ["Agios"]
+}
