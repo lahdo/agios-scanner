@@ -1,0 +1,9 @@
+# Core libraries
+pymupdf>=1.26.4       # PDF text extraction (imported as "fitz")
+openai>=1.30.1        # OpenAI API client
+pandas>=2.2.0         # tabular reporting
+rich>=13.7.1          # pretty progress bars & console output
+scikit-learn>=1.5.0   # cosine-similarity
+
+# Convenience (loads .env automatically if present)
+python-dotenv>=1.0.1
